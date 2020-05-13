@@ -1,5 +1,5 @@
 # UsingGoogleMapAPInPortfolio
-* 01-GoogleMaps
+* GoogleMapsAPI
   * 01-adding_the_map_element
   * 03-referencing_the_js_files
   * 04-rendering_the_map
